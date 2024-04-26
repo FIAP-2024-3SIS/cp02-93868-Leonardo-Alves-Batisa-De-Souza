@@ -1,2 +1,8 @@
 # cp02-93868-Leonardo-Alves-Batisa-De-Souza
-Entrega CheckPoint 2 - MicroServices
+
+Código para funcionamento do APP
+
+cd my-app
+ng serve --o
+
+Com esse código abrirá o site
